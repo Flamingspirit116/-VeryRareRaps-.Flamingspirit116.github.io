@@ -19,7 +19,7 @@
            <p>Hello and welcome to the Very Rare website you will leran about us and our upcoming fame. Here's the next upcoming artists of Very Rare</p>
       <ol>
       <li><strong>Mag1z1ne<br><strong> mag1 is maybe one of the best freestylers out of VR (Very Rare) he can rap about anything you want him to rap about</li>
-           <li><strong> On gang, on 4KTrey we got it dawg, Vr up next nobody catching up.</li>
+           <li><strong> Lil Breezy our native suprise, he can actually rap and may have the best indian bars and indian style to raping, yes raping not rapping. He can get both done though.</li>
                 <ul id= "Crip"> Juju </ul>
                 <ul id= "Crip"> Jewelian </ul>
                 <ul id= "Crip"> Lil Breezy </ul>
