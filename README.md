@@ -20,6 +20,7 @@
       <ol>
       <li><strong>Mag1z1ne<br><strong> mag1 is maybe one of the best freestylers out of VR (Very Rare) he can rap about anything you want him to rap about</li>
            <li><strong> Lil Breezy our native suprise, he can actually rap and may have the best indian bars and indian style to raping, yes raping not rapping. He can get both done though.</li>
+           <li><strong> VR_DJ, the smallest one out of the group but dont let his size get tp ypu, he can actually write good raps and bars but never ask him to freestyle, he doesn't do well with those and he'll probably shoot you!</strong></li>
                 <ul id= "Crip"> Juju </ul>
                 <ul id= "Crip"> Jewelian </ul>
                 <ul id= "Crip"> Lil Breezy </ul>
