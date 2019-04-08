@@ -18,7 +18,7 @@
            <h1 id="VRLS">Very Rare Lifestyle (VRLS)</h1>
            <p>Hello and welcome to the Very Rare website you will leran about us and our upcoming fame. Here's the next upcoming artists of Very Rare</p>
       <ol>
-      <li><strong>Mag1z1ne<br><strong> Zamari Williams is maybe one of the best freestylers out of VR (Very Rare) he can rap about anything you want him to rap about</li>
+      <li><strong>Mag1z1ne<br><strong> mag1 is maybe one of the best freestylers out of VR (Very Rare) he can rap about anything you want him to rap about</li>
            <li><strong> On gang, on 4KTrey we got it dawg, Vr up next nobody catching up.</li>
                 <ul id= "Crip"> Juju </ul>
                 <ul id= "Crip"> Jewelian </ul>
